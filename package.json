@@ -4,7 +4,7 @@
     "description": "react native toast like component, pure javascript solution",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-toast"
+        "url": "https://github.com/a805883237/react-native-root-toast"
     },
     "license": "MIT",
     "main": "./index.js",
@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "^1.2.1",
+        "react-native-root-siblings": "git+https://github.com/a805883237/react-native-root-siblings",
         "prop-types": "^15.5.10"
     }
 }
